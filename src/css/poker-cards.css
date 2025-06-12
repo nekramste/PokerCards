@@ -1,0 +1,221 @@
+.poker-card {
+	display: inline-block;
+	height: 190px;
+	width: 140px;
+	background: url('../assets/cards.png');
+	background-position: -0px -0px;
+	zoom: 0.35;
+}
+
+/*CLUBS*/
+.poker-card-0 {
+	background-position: -280px -1140px;
+}
+
+.poker-card-4 {
+	background-position: -700px -190px;
+}
+
+.poker-card-8 {
+	background-position: -700px 0px;
+}
+
+.poker-card-12 {
+	background-position: -560px -1710px;
+}
+
+.poker-card-16 {
+	background-position: -560px -1520px;
+}
+
+.poker-card-20 {
+	background-position: -560px -1330px;
+}
+
+.poker-card-24 {
+	background-position: -560px -1140px;
+}
+
+.poker-card-28 {
+	background-position: -560px -950px;
+}
+
+.poker-card-32 {
+	background-position: -560px -760px;
+}
+
+.poker-card-36 {
+	background-position: -560px -380px;
+}
+
+.poker-card-40{
+    background-position: -560px 0px;
+}
+
+.poker-card-44 {
+	background-position: -560px -190px;
+}
+
+.poker-card-48 {
+	background-position: -560px -570px;
+}
+
+/*DIAMONDS*/
+.poker-card-1 {
+	background-position: -420px -1710px;
+}
+
+.poker-card-5 {
+	background-position: -420px -1520px;
+}
+
+.poker-card-9 {
+	background-position: -420px -1330px;
+}
+
+.poker-card-13 {
+	background-position: -420px -1140px;
+}
+
+.poker-card-17 {
+	background-position: -420px -950px;
+}
+
+.poker-card-21 {
+	background-position: -420px -760px;
+}
+
+.poker-card-25 {
+	background-position: -420px -570px;
+}
+
+.poker-card-29 {
+	background-position: -420px -380px;
+}
+
+.poker-card-33 {
+	background-position: -420px -190px;
+}
+
+.poker-card-37 {
+	background-position: -280px -1710px;
+}
+
+.poker-card-41 {
+	background-position: -280px -1330px;
+}
+
+.poker-card-45 {
+	background-position: -280px -1520px;
+}
+
+.poker-card-49 {
+	background-position: -420px 0px;
+}
+
+/*HEARTS*/
+.poker-card-2 {
+	background-position: -700px -380px;
+}
+
+.poker-card-6 {
+	background-position: -280px -950px;
+}
+
+.poker-card-10 {
+	background-position: -280px -760px;
+}
+
+.poker-card-14 {
+	background-position: -280px -570px;
+}
+
+.poker-card-18 {
+	background-position: -280px -380px;
+}
+
+.poker-card-22 {
+	background-position: -280px -190px;
+}
+
+.poker-card-26 {
+	background-position: -280px 0px;
+}
+
+.poker-card-30 {
+	background-position: -140px -1710px;
+}
+
+.poker-card-34 {
+	background-position: -140px -1520px;
+}
+
+.poker-card-38 {
+	background-position: -140px -1140px;
+}
+
+.poker-card-42 {
+	background-position: -140px -760px;
+}
+
+.poker-card-46 {
+	background-position: -140px -950px;
+}
+
+.poker-card-50 {
+	background-position: -140px -1330px;
+}
+
+/*SPADES*/
+
+.poker-card-3 {
+	background-position: -140px -380px;
+}
+
+.poker-card-7 {
+	background-position: -140px -190px;
+}
+
+.poker-card-11 {
+	background-position: -140px 0px;
+}
+
+.poker-card-15 {
+	background-position: 0px -1710px;
+}
+
+.poker-card-19 {
+	background-position: 0px -1520px;
+}
+
+.poker-card-23 {
+	background-position: 0px -1330px;
+}
+
+.poker-card-27 {
+	background-position: 0px -1140px;
+}
+
+.poker-card-31 {
+	background-position: 0px -950px;
+}
+
+.poker-card-35 {
+	background-position: 0px -760px;
+}
+
+.poker-card-39 {
+	background-position: 0px -380px;
+}
+
+.poker-card-43 {
+	background-position: 0px 0px;
+}
+
+.poker-card-47 {
+	background-position: 0px -190px;
+}
+
+.poker-card-51 {
+	background-position: 0px -570px;
+}
